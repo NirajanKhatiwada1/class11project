@@ -1,0 +1,36 @@
+.level{
+display:inline-block;
+height:5px;
+width:50vw;
+border:1px solid white;
+border-radius:5px;
+}
+
+.html{
+display:inline-block;
+width:90%;
+background-color:rgba(254, 44, 85, 1.0);
+height:100%;
+}
+
+main{
+color:white;
+position:absolute;
+left:10vw;
+top:20vh;
+}
+
+.js{
+display:inline-block;
+width:30%;
+background-color:rgba(254, 44, 85, 1.0);
+height:100%;
+
+}
+
+.css{
+display:inline-block;
+width:70%;
+background-color:rgba(254, 44, 85, 1.0);
+height:100%;
+}
